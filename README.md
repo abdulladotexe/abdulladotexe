@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Abdulla 👋
 
+🧠Computer science student at Amity University<br/>
+🔭Icreate web apps to stay consistent<br/>
+📽️I make videos about code and design on [Instagram](www.instagram.com)
 <!--
 **abdulladotexe/abdulladotexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
