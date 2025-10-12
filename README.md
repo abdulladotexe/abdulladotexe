@@ -1,4 +1,4 @@
-## Hi, I'm Abdulla 👋
+## Hi, I'm hayato 👋
 
 🧠Computer science student at Amity University<br/>
 🔭Icreate web apps to stay consistent<br/>
