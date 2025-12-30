@@ -2,7 +2,7 @@
 
 🧠Computer science student at Amity University<br/>
 🔭Icreate web apps to stay consistent<br/>
-📽️I make videos about code and design on [Instagram](www.instagram.com)
+📽️my friend makes videos about code and design on [youtube](https://www.youtube.com/@ezsnippat)
 
 # 💫 About Me:
 🔭 I’m currently working on Web programming<br>👯 I’m looking to collaborate on Web programming<br>🤝 I’m looking for help with Web programming<br>🌱 I’m currently learning Web programming<br>💬 Ask me about Web programming<br>⚡ Fun fact Web programming doesn't exist
